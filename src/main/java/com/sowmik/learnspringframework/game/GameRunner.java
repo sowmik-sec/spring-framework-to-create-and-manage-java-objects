@@ -1,8 +1,8 @@
 package com.sowmik.learnspringframework.game;
 
 public class GameRunner {
-    private SuperContraGame game;
-    public GameRunner(SuperContraGame game) {
+    private GamingConsole game;
+    public GameRunner(GamingConsole game) {
         this.game = game;
     }
 
