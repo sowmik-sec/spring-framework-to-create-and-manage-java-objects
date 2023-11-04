@@ -1,4 +1,4 @@
-package com.sowmik.learnspringframework;
+package com.sowmik.learnspringframework.helloworld;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
