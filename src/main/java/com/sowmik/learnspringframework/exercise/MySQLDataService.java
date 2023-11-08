@@ -1,8 +1,10 @@
 package com.sowmik.learnspringframework.exercise;
 
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
-@Component
+//@Component
+@Repository
 public class MySQLDataService implements Dataservice{
     @Override
     public int[] retrieveData() {
